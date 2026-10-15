@@ -1,0 +1,14 @@
+.vscode/
+
+/build/
+/build*/
+/build-*/
+/cmake-build-*/
+
+html/
+latex/
+
+__pycache__/
+*.py[cod]
+*.DS_Store
+

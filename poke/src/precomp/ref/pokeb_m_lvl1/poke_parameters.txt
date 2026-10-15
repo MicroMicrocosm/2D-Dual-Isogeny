@@ -1,0 +1,8 @@
+lvl = 1
+p = 0x7036364ab7f4f4dd8e06adbd7c231fffffffffffffffffffffffffffffffff
+B = 1373
+Cfactor = 5^4 * 11 * 19 * 29 * 31 * 43 * 61 * 103 * 107 * 173 * 251 * 307 * 569 * 673 * 709 * 983 * 1013 * 1373
+use_cfactor = 1
+use_twist = 1
+D_in_P = 0
+D_is_smooth = 0

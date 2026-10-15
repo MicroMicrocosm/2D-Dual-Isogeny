@@ -1,0 +1,18 @@
+#include <intbig.h>
+#include <ec.h>
+#include <quaternion.h>
+extern const ec_basis_t BASIS_EVEN;
+extern const ec_basis_t BASIS_C1;
+extern const ec_basis_t BASIS_C2;
+extern const ec_basis_t BASIS_D;
+extern const ec_curve_t CURVE_E0;
+extern const ec_point_t CURVE_E0_A24;
+extern const fp_t Pairing_value;
+extern const ibz_mat_2x2_t ACTION_I;
+extern const ibz_mat_2x2_t ACTION_J;
+extern const ibz_mat_2x2_t ACTION_K;
+extern const ibz_mat_2x2_t ACTION_GEN2;
+extern const ibz_mat_2x2_t ACTION_GEN3;
+extern const ibz_mat_2x2_t ACTION_GEN4;
+extern const quat_alg_elem_t COMMITMENT_IDEAL_UNDISTORTED_GEN;
+extern const quat_alg_elem_t COMMITMENT_IDEAL_DISTORTION_ENDO;
