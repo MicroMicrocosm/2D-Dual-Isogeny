@@ -2,6 +2,8 @@
 
 Paper title: **Efficient Two-Dimensional Representation Evaluation via Dual Isogenies with Applications to Isogeny-Based Cryptography**
 
+The preprint version is available at [ePrint 2026/2506](https://eprint.iacr.org/2026/2506).
+
 ## Repository Overview
 
 This repository contains the implementations, experiments, and supporting code for the paper. The project is organized into three main subprojects, each focusing on a different isogeny-based cryptographic construction:
